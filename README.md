@@ -81,17 +81,11 @@ The current evaluation system uses a mock evaluation response rather than a live
 
 ## Screenshots
 
+## Screenshots
+
 ### Landing Page
-_Add screenshot of the landing page here._
 
-### Interview Setup
-_Add screenshot of the interview setup page here._
-
-### Interview Evaluation
-_Add screenshot showing the AI evaluation and scores here._
-
-### Interview History
-_Add screenshot of the interview history dashboard here._
+![Landing Page](docs/screenshots/landing-page.png)
 
 ## Future Improvements
 
